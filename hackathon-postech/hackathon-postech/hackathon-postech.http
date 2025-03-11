@@ -1,0 +1,6 @@
+@hackathon_postech_HostAddress = http://localhost:5062
+
+GET {{hackathon_postech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
